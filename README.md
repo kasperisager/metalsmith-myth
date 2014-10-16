@@ -1,5 +1,8 @@
 # metalsmith-myth
 
+[![Release](http://img.shields.io/npm/v/metalsmith-myth.svg?style=flat)](https://www.npmjs.org/package/metalsmith-myth) [![Code Climate](http://img.shields.io/codeclimate/github/kasperisager/metalsmith-myth.svg?style=flat)](https://codeclimate.com/github/kasperisager/metalsmith-myth) [![Dependency Status](http://img.shields.io/gemnasium/kasperisager/metalsmith-myth.svg?style=flat)](https://gemnasium.com/kasperisager/metalsmith-myth) [![Downloads](http://img.shields.io/npm/dm/metalsmith-myth.svg?style=flat)](https://www.npmjs.org/package/metalsmith-myth) [![License](http://img.shields.io/npm/l/metalsmith-myth.svg?style=flat)](https://github.com/kasperisager/metalsmith-myth/blob/master/LICENSE.md)
+
+
 A [Metalsmith](http://metalsmith.io) plugin to preprocess CSS files with [Myth](http://myth.io).
 
 ## Installation
