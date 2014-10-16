@@ -1,4 +1,4 @@
-# metalsmith-excerpts
+# metalsmith-myth
 
 A [Metalsmith](http://metalsmith.io) plugin to preprocess CSS files with [Myth](http://myth.io).
 
