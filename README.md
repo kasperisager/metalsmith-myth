@@ -30,7 +30,7 @@ metalsmith.use(myth(options));
 
 ## Options
 
-- `files` - [Minimatch](https://github.com/isaacs/minimatch) pattern of files to match. _Default_: `*.css`.
+- `files` - [Minimatch](https://github.com/isaacs/minimatch) pattern of files to match. __Default__: `*.css`.
 
 Plus the [options supported by Myth itself](https://github.com/segmentio/myth#nodejs) excluding `source` which is set by the plugin.
 
