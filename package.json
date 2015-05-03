@@ -20,6 +20,7 @@
   "homepage": "https://github.com/kasperisager/metalsmith-myth",
   "dependencies": {
     "minimatch": "^2.0.4",
-    "myth": "^1.4.0"
+    "myth": "^1.4.0",
+    "rework-npm": "^1.0.0"
   }
 }
